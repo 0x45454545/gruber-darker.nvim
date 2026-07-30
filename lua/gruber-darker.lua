@@ -100,7 +100,7 @@ theme.ui = {
     MatchParen     = { fg = theme.palette.yellow, bold = true },
 
     StatusLine     = { fg = theme.palette.fg, bg = theme.palette.bgl1 },
-    StatusLineNC   = { fg = theme.palette.fg, bg = theme.palette.bgl1 },
+    StatusLineNC   = { fg = theme.palette.quartz, bg = theme.palette.bgl1 },
 
     Pmenu          = { fg = theme.palette.fg, bg = theme.palette.bgl1 },
     PmenuSel       = { fg = theme.palette.black, bg = theme.palette.yellow },
@@ -122,6 +122,11 @@ theme.ui = {
     DiffDelete     = { bg = theme.palette.red },
     DiffChange     = { bg = theme.palette.niagarad1 },
     DiffText       = { bg = theme.palette.yellow },
+
+    Added          = { fg = theme.palette.green },
+    DiagnosticInfo = { fg = theme.palette.niagara },
+    DiagnosticWarn = { fg = theme.palette.brown },
+    DiagnosticHint = { fg = theme.palette.niagarad1 },
 
 }
 
