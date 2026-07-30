@@ -99,8 +99,8 @@ theme.ui = {
 
     MatchParen     = { fg = theme.palette.yellow, bold = true },
 
-    StatusLine     = { fg = theme.palette.fgl1, bg = theme.palette.bgl1 },
-    StatusLineNC   = { fg = theme.palette.quartz, bg = theme.palette.bgl1 },
+    StatusLine     = { fg = theme.palette.fg, bg = theme.palette.bgl1 },
+    StatusLineNC   = { fg = theme.palette.fg, bg = theme.palette.bgl1 },
 
     Pmenu          = { fg = theme.palette.fg, bg = theme.palette.bgl1 },
     PmenuSel       = { fg = theme.palette.black, bg = theme.palette.yellow },
@@ -111,6 +111,9 @@ theme.ui = {
 
     ModeMsg        = { fg = theme.palette.yellow },
     MoreMsg        = { fg = theme.palette.yellow },
+
+    MsgArea        = { fg = theme.palette.fg },
+    Question       = { fg = theme.palette.wisteria },
 
     ErrorMsg       = { fg = theme.palette.red },
     WarningMsg     = { fg = theme.palette.brown },
