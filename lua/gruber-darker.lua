@@ -151,7 +151,7 @@ theme.syntax = {
     Macro          = { link = "PreProc" },
 
     Type           = { fg = theme.palette.quartz },
-    Structure      = { fg = theme.palette.quartz },
+    Structure      = { fg = theme.palette.yellow },
     Typedef        = { fg = theme.palette.yellow },
     StorageClass   = { fg = theme.palette.yellow },
 
