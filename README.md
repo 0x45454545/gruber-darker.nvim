@@ -20,3 +20,6 @@ or the bit more modern style (treesitter required for full functionality):
 ```lua
 gruber.load(gruber.style.modern)
 ```
+
+# Preview
+![preview](preview.png)
