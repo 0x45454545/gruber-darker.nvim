@@ -22,4 +22,7 @@ gruber.load(gruber.style.modern)
 ```
 
 # Preview
-![preview](preview.png)
+Default:
+![preview](preview-default.png)
+Modern:
+![preview](preview-modern.png)
