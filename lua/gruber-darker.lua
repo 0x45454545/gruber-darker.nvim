@@ -168,6 +168,8 @@ theme.syntax = {
     Special        = { fg = theme.palette.fg },
     SpecialChar    = { fg = theme.palette.green },
 
+    Title          = { fg = theme.palette.wisteria },
+
     Todo           = { fg = theme.palette.yellow, bold = true },
     Error          = { fg = theme.palette.red, bold = true },
 
