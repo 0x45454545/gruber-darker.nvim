@@ -132,6 +132,7 @@ theme.ui = {
 
 theme.syntax = {
 
+    NonText        = { fg = theme.palette.bgl1 },
     Comment        = { fg = theme.palette.brown },
     SpecialComment = { link = "Comment" },
 
